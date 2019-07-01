@@ -62,3 +62,6 @@ typings/
 
 # Webpack bundler data
 dist/
+
+# Local files
+.DS_Store
